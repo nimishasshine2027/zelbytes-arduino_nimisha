@@ -2,7 +2,7 @@
 
 ## Student Information
 
-Name: Nimisha
+Name: Nimisha S Shine
 
 ## Board Information
 
