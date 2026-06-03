@@ -1,1 +1,25 @@
+# Arduino Internship Repository
 
+## Overview
+
+This repository contains all daily tasks, experiments, and projects completed during the Arduino and IoT Internship.
+
+The purpose of this repository is to maintain a structured record of:
+
+- Arduino sketches
+- Hardware documentation
+- Wiring images
+- Project progress
+
+## Repository Structure
+
+zelbytes-arduino-nimisha/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+├── wiring-images/
+├── shared/
+└── sketches/
