@@ -1,0 +1,16 @@
+# Arduino build files
+build/
+*.hex
+*.eep
+
+# VS Code
+.vscode/settings.json
+
+# Secrets
+secrets.h
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
