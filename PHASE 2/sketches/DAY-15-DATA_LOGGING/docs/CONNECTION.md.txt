@@ -1,0 +1,19 @@
+| DHT22 Pin | Arduino Uno Pin |
+| --------- | --------------- |
+| VCC       | 5V              |
+| DATA      | D4              |
+| GND       | GND             |
+
+
+| Soil Sensor Pin | Arduino Uno Pin |
+| --------------- | --------------- |
+| VCC             | 5V              |
+| GND             | GND             |
+| AO              | A0              |
+
+
+| Component Connection               | Arduino Uno Pin |
+| ---------------------------------- | --------------- |
+| One leg of LDR                     | 5V              |
+| Junction of LDR and 10 kΩ resistor | A1              |
+| Other end of 10 kΩ resistor        | GND             |
